@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshit Srivastava</h1>
 <h3 align="center">I am a passionate Flutter Developer from India</h3>
 
-<img src = "https://github.com/subsavage/subsavage/assets/69175270/94d0589e-597a-4504-ad63-32b888456bfd" height = "50%" width = "50%">
+<center><img src = "https://github.com/subsavage/subsavage/assets/69175270/94d0589e-597a-4504-ad63-32b888456bfd" height = "50%" width = "50%" ></center>
 
 - 🔭 I’m currently working on [ThoughtOn](https://github.com/subsavage/ThoughtOn)
 
