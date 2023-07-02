@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ldSwCwV8pL2c1ioQFWicE-Bjdk7-FURv/view?usp=sharing](https://drive.google.com/file/d/1ldSwCwV8pL2c1ioQFWicE-Bjdk7-FURv/view?usp=sharing)
 
-- ⚡ Fun fact **I am a master of a ton of trades**
+- ⚡ Fun fact **I am a jack of a ton of trades**
 
 
 
