@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [ThoughtOn](https://github.com/subsavage/ThoughtOn)
 
-- 🌱 I’m currently learning **Flutter and Firebase**
+- 🌱 I’m currently learning **Flutter,Firebase and FastAPI**
 
 - 💬 Ask me about **Android, Flutter**
 
