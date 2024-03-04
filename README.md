@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **harshitproff4@gmail.com**
 
-- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1ygv9YnX8-efX44HM-Qoz5nVCyh-M2se6/view?usp=sharing)
+- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1It3yf1FGMtAN8w7rzJhaqt7-7cImM6sZ/view?usp=sharing)
 
 - ⚡ Fun fact **I am a jack of a ton of trades**
 
