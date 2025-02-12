@@ -4,7 +4,7 @@
 <p align = "center"><img src = "https://github.com/subsavage/subsavage/assets/69175270/94d0589e-597a-4504-ad63-32b888456bfd" height = "40%" width = "40%" ></p>
 
 
-- 🔭 I’m currently working on [ThoughtOn](https://github.com/subsavage/ThoughtOn)
+- 🔭 I’m currently working on [DreamScript](https://github.com/subsavage/dreamscript-frontend)
 
 - 🌱 I’m currently learning **Flutter,Firebase and FastAPI**
 
